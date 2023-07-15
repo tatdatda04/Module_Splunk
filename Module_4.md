@@ -4,9 +4,9 @@
 
 - [Tạo trendline *(đường xu hướng)*](#Trendline-Command)
 - [Tạo bản đồ :](#Map)
-	+ [Vị trí](**iplocation-Command**)
-	+ [Thống kê](geostats-Command)
-	+ [Geom](geom-Command)
+	+ Vị trí
+	+ Thống kê
+	+ Geom
 - [Tạo và định dạng các giá trị đơn lẻ](#Create-and-format-single-values)
 - [Sử dụng lệnh addtotals](#Use-the-addtotals-command)
 
