@@ -2,7 +2,7 @@
 
 ## Module Objectives
 
-- [Use the eval command *(Sử dụng lệnh eval)*](#Eval-Command)
+- [Use the eval command *(Sử dụng lệnh eval)*](#eval-Command)
 
   + Perform calculations *(Thực hiện phép tính)*
 		
@@ -18,7 +18,7 @@
 
 - [Use fillnull command *(Sử dụng lệnh fillnull)*](#Fillnull-Command)
 
-# Eval Command
+# eval Command
 
 - **Overview** *(Tổng quan)*:
   + Cho phép tính toán và thao tác các giá trị trường trong báo cáo
