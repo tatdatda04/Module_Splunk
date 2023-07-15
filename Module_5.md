@@ -14,7 +14,7 @@
 		
   + Use conditional statements *(Sử dụng câu điều kiện)*
 
-- [Use the search and where commands to filter calculated results *(Sử dụng lệnh search và where để lọc kể quả tính)*](#Filtering-Results-–-search-and-where)
+- [Use the search and where commands to filter calculated results *(Sử dụng lệnh search và where để lọc kể quả tính)*](#Filtering-Results–search-and-where)
 
 - Use fillnull command *(Sử dụng lệnh fillnull)*
 
