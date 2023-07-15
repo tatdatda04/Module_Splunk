@@ -2,7 +2,7 @@
 
 ## Module Objectives
 
-- [Use the eval command *(Sử dụng lệnh eval)*](#eval-Command)
+- [Use the eval command *(Sử dụng lệnh eval)*](#eval-command)
 
   + Perform calculations *(Thực hiện phép tính)*
 		
@@ -16,7 +16,7 @@
 
 - [Use the search and where commands to filter calculated results *(Sử dụng lệnh search và where để lọc kể quả tính)*](#Filtering-Results-search-and-where)
 
-- [Use fillnull command *(Sử dụng lệnh fillnull)*](#Fillnull-Command)
+- [Use fillnull command *(Sử dụng lệnh fillnull)*](#fillnull-command)
 
 # eval Command
 
@@ -240,7 +240,7 @@
 
   + Phải sử dụng toán tử like với ký tự đại diện
  
-# Fillnull Command
+# fillnull Command
 
   - Sử dụng `fillnull` để thay thế giá trị `null` trong các `field`
   
