@@ -18,7 +18,7 @@
 
 - [Use fillnull command *(Sử dụng lệnh fillnull)*](#fillnull-command)
 
-# eval Command
+# eval command
 
 - **Overview** *(Tổng quan)*:
   + Cho phép tính toán và thao tác các giá trị trường trong báo cáo
