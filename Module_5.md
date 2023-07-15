@@ -240,7 +240,7 @@
 
   + Phải sử dụng toán tử like với ký tự đại diện
  
-# fillnull Command
+# Fillnull Command
 
   - Sử dụng `fillnull` để thay thế giá trị `null` trong các `field`
   
