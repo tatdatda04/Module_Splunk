@@ -2,7 +2,7 @@
 
 ## Module Objectives
 
-- [Use the eval command *(Sử dụng lệnh eval)*](#-eval-Command)
+- [Use the eval command *(Sử dụng lệnh eval)*](#evalCommand)
 
   + Perform calculations *(Thực hiện phép tính)*
 		
@@ -14,11 +14,11 @@
 		
   + Use conditional statements *(Sử dụng câu điều kiện)*
 
-- [Use the search and where commands to filter calculated results *(Sử dụng lệnh search và where để lọc kể quả tính)*](#-Filtering-Results-search-and-where)
+- [Use the search and where commands to filter calculated results *(Sử dụng lệnh search và where để lọc kể quả tính)*](#Filtering-Results-search-and-where)
 
-- [Use fillnull command *(Sử dụng lệnh fillnull)*](#-Fillnull-Command)
+- [Use fillnull command *(Sử dụng lệnh fillnull)*](#Fillnull-Command)
 
-# eval Command
+# evalCommand
 
 - **Overview** *(Tổng quan)*:
   + Cho phép tính toán và thao tác các giá trị trường trong báo cáo
