@@ -16,7 +16,7 @@
 
 - [Use the search and where commands to filter calculated results *(Sử dụng lệnh search và where để lọc kể quả tính)*](#Filtering-Results-search-and-where)
 
-- [Use fillnull command *(Sử dụng lệnh fillnull)*](#Fillnull-Command)
+- [Use fillnull command *(Sử dụng lệnh fillnull)*](#fillnull-Command)
 
 # eval Command
 
