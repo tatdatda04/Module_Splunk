@@ -16,9 +16,9 @@
 
 - [Use the search and where commands to filter calculated results *(Sử dụng lệnh search và where để lọc kể quả tính)*](#Filtering-Results-search-and-where)
 
-- [Use fillnull command *(Sử dụng lệnh fillnull)*](#fillnull-command)
+- [Use fillnull command *(Sử dụng lệnh fillnull)*](#Fillnull-Command)
 
-# eval command
+# eval Command
 
 - **Overview** *(Tổng quan)*:
   + Cho phép tính toán và thao tác các giá trị trường trong báo cáo
