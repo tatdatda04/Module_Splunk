@@ -4,7 +4,7 @@
 
 - [Tạo trendline *(đường xu hướng)*](#Trendline-Command)
 - [Tạo bản đồ :](#Map)
-	+ [Vị trí](iplocation-Command)
+	+ [Vị trí](**iplocation-Command**)
 	+ [Thống kê](geostats-Command)
 	+ [Geom](geom-Command)
 - [Tạo và định dạng các giá trị đơn lẻ](#Create-and-format-single-values)
