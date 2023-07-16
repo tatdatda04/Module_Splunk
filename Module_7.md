@@ -2,7 +2,7 @@
 
 ## Module Objectives
 
-- [Identify the categories of knowledge objects *( Các loại knowledge objects)*](#What-are-Knowledge-Objects?)
+- [Identify the categories of knowledge objects *( Các loại knowledge objects)*](#What-are-Knowledge-Objects-?)
 
 - Define the role of a knowledge manager *( Vai trò của knowledge manager)*
 
