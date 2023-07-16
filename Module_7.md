@@ -27,7 +27,8 @@
   - Normalization – Tags and field aliases *(Chuẩn hóa – `Tags` và tên `field`)*
 
   - Datasets – Data models *(Bộ dữ liệu – Mô hình dữ liệu)*
-   ![ảnh](https://github.com/tatdatda04/Module_Splunk/assets/118095276/d4aa567f-0951-4354-80da-3e803269f77a)
+
+![ảnh](https://github.com/tatdatda04/Module_Splunk/assets/118095276/d4aa567f-0951-4354-80da-3e803269f77a)
 
 - `Shareable` 
   - Có thể được chia sẻ giữa những người dùng
@@ -88,6 +89,7 @@
   - field aliases *(Tên lĩnh vực)*
   - event types *(loại sự kiện)*
   - tags
+  
   ![ảnh](https://github.com/tatdatda04/Module_Splunk/assets/118095276/84873042-a265-421d-996e-a8596bc37f7a)
 
 
