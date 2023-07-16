@@ -2,7 +2,7 @@
 
 ## Module Objectives
 
-- [Identify the categories of knowledge objects *( Các loại knowledge objects)*](#What-are-Knowledge-Objects-?)
+- [Identify the categories of knowledge objects *( Các loại knowledge objects)*](#What-are-Knowledge-Objects)
 
 - Define the role of a knowledge manager *( Vai trò của knowledge manager)*
 
@@ -14,7 +14,7 @@
 
 - Describe the Splunk Common Information Model `CIM` *(Mô hình thông tin Splunk)*
 
-# What are Knowledge Objects ?
+# What are Knowledge Objects
 
 - Là công cụ để điều tra và phân tích các khía cạnh khác nhau của dữ liệu 
 
