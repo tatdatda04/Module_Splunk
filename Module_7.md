@@ -4,7 +4,7 @@
 
 - [Identify the categories of knowledge objects *( Các loại knowledge objects)*](#What-are-Knowledge-Objects)
 
-- Define the role of a knowledge manager *( Vai trò của knowledge manager)*
+- [Define the role of a knowledge manager *( Vai trò của knowledge manager)*](#What-is-a-Knowledge-Mangager)
 
 - Identify naming conventions *(Quy ước đặt tên)*
 
@@ -38,5 +38,5 @@
 - Searchable 
   - Các đối tượng được lưu trữ, có thể được sử dụng trong quá trình tìm kiếm
 
-# What is a Knowledge Mangager ?
+# What is a Knowledge Mangager
 
