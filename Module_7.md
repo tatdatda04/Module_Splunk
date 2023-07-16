@@ -6,7 +6,7 @@
 
 - [Define the role of a knowledge manager *( Vai trò của knowledge manager)*](#What-is-a-Knowledge-Mangager)
 
-- [Identify naming conventions *(Quy ước đặt tên)*](#-Defining-Naming-Conventions)
+- [Identify naming conventions *(Quy ước đặt tên)*](#Defining-Naming-Conventions)
 
 - [Review permissions *(Quyền hành)*](#Reviewing-Permissions)
 
