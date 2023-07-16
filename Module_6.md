@@ -65,6 +65,7 @@
     >Tổng thời gian tối đa giữa các sự kiện
 
     >Nếu không chỉ định, mặc định là -1 (hoặc không giới hạn)
+  
   ![ảnh](https://github.com/tatdatda04/Module_Splunk/assets/118095276/da8e55a3-f320-4bc1-8800-032cb9110081)
 
 
