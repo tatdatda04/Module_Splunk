@@ -12,7 +12,7 @@
 
 - [Manage knowledge objects *( Quản lí knowldge objects)*](#Managing-Knowledge-Objects)
 
-- [Describe the Splunk Common Information Model `CIM` *(Mô hình thông tin Splunk)*](#Using-the-Splunk-Common-Information-Model-(-CIM-))
+- [Describe the Splunk Common Information Model `CIM` *(Mô hình thông tin Splunk)*](#Using-the-Splunk-Common-Information-Model)
 
 # What are Knowledge Objects?
 
@@ -79,4 +79,4 @@
 
   ![ảnh](https://github.com/tatdatda04/Module_Splunk/assets/118095276/577c5bed-0dbc-4479-84d8-d97d4eb3f610)
 
-# Using the Splunk Common Information Model *(CIM)*
+# Using the Splunk Common Information Model
