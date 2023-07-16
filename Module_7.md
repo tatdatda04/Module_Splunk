@@ -14,7 +14,7 @@
 
 - Describe the Splunk Common Information Model `CIM` *(Mô hình thông tin Splunk)*
 
-# What are Knowledge Objects
+# What are Knowledge Objects?
 
 - Là công cụ để điều tra và phân tích các khía cạnh khác nhau của dữ liệu 
 
@@ -38,5 +38,5 @@
 - Searchable 
   - Các đối tượng được lưu trữ, có thể được sử dụng trong quá trình tìm kiếm
 
-# What is a Knowledge Mangager
+# What is a Knowledge Mangager?
 
