@@ -80,3 +80,15 @@
   ![ảnh](https://github.com/tatdatda04/Module_Splunk/assets/118095276/577c5bed-0dbc-4479-84d8-d97d4eb3f610)
 
 # Using the Splunk Common Information Model
+
+- Là phương pháp chuẩn hóa dữ liệu
+- Dễ dàng liên kết dữ liệu từ các nguồn và loại nguồn khác nhau
+- Tận dụng để tạo ra các đối tượng khác nhau - trích xuất trường,
+  - field extractions *(Trích xuất lĩnh vực)*
+  - field aliases *(Tên lĩnh vực)*
+  - event types *(loại sự kiện)*
+  - tags
+  ![ảnh](https://github.com/tatdatda04/Module_Splunk/assets/118095276/84873042-a265-421d-996e-a8596bc37f7a)
+
+
+
