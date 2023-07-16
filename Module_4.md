@@ -15,7 +15,7 @@
 - Command: 
 	`trendline <trendtype><period>(field) [AS newfield]`
 	
-	- Trong đó trendtype gồm:
+	- Trong đó `trendtype` gồm:
 	
 		+ `sma` *(Simple Moving Average - Trung bình động đơn giản)*: tính trung bình giá trị của dữ liệu trong một khoảng thời gian cố định. Nó được tính bằng cách lấy tổng các giá trị trong khoảng thời gian và chia cho số lượng điểm dữ liệu trong khoảng đó, giúp mịn dần dữ liệu và làm nổi bật xu hướng chung trong biểu đồ. Điểm yếu là nó trung bình hóa tất cả các giá trị trong khoảng, không quan tâm nhiều đến sự biến đổi gần đây hơn.
 
@@ -49,14 +49,14 @@
 
 	+ Không phải tất cả các Ip đều có sẵn các thông tin trên 
 
-	+ Splunk tự động xác định các trường *(field)* mặc định lat và lon *(latitude và longitude)* được yêu cầu bởi lệnh geostats khi làm việc với dữ liệu địa lý.
+	+ Splunk tự động xác định các trường *(field)* mặc định lat và lon *(latitude và longitude)* được yêu cầu bởi `lệnh geostats` khi làm việc với dữ liệu địa lý.
 ![ảnh](https://github.com/tatdatda04/Module_Splunk/assets/118095276/8e31f4c4-3815-4117-bfaa-4d95b23e97b6)
 ![ảnh](https://github.com/tatdatda04/Module_Splunk/assets/118095276/6105c37c-59a0-45d5-a10b-c71d3e7173c0)
 
 
 - **geostats Command**
 
-	+ Sử dụng geostats để tính toán các thống kê và hiển thị bản đồ cụm
+	+ Sử dụng `geostats` để tính toán các thống kê và hiển thị bản đồ cụm
 
 	`geostats [latfield=string] [longfield=string] [stats-agg-term]* [by-clause]`
 
@@ -119,7 +119,7 @@
 	![ảnh](https://github.com/tatdatda04/Module_Splunk/assets/118095276/16642243-c0ba-46df-afa0-7c46a3d3d97f)
 	![ảnh](https://github.com/tatdatda04/Module_Splunk/assets/118095276/4659f926-65a7-4093-9be7-e16da44e8b42)
 
-	+ Tùy chỉnh , xác định thông tin định dạng số cho một giá trị trên tab Number Format
+	+ Tùy chỉnh , xác định thông tin định dạng số cho một giá trị trên `tab Number Format`
 
  	![ảnh](https://github.com/tatdatda04/Module_Splunk/assets/118095276/a6f06e7e-a022-4859-b9ef-2340152f001f)
 
